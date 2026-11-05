@@ -1,0 +1,5 @@
+{
+  "name": "Clinical SOAP Patient Data Collector",
+  "description": "A comprehensive inpatient and outpatient data collection tool following the standard SOAP proforma layout, featuring daily progress tracking, vitals, lab integrations, and pharmacy care notes.",
+  "requestFramePermissions": []
+}
